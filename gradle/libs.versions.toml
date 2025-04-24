@@ -6,7 +6,7 @@ jvm = "17"
 agp = "8.9.1"
 
 room = "2.6.1"
-media3 = "1.5.1"
+media3 = "1.6.1"
 ktor = "3.0.3"
 detekt = "1.23.6"
 workmanager = "2.10.0"
